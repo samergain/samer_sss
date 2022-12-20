@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    
+}
+#red {
+    background-color: red;
+    border: 10px solid grey;
+    padding: 10px;
+}
+
+#yellow {
+    background-color: yellow;
+    margin-left: 200px;
+    padding: 80px;
+}
+
+#green {
+    background-color: green;
+    margin-left: 400px;
+    border: 5px dotted red;
+}
